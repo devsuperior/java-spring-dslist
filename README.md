@@ -16,7 +16,7 @@
 - [Guia de instalação das ferramentas no Mac](https://github.com/devsuperior/sds-dsmeta/tree/main/_instalacao/mac)
 
 ## Discord do evento para dúvidas e networking
-- [Discord da Semana Spring React](https://discord.gg/A9yDuGhEPB)
+- [Discord do Intensivão Java Spring](https://discord.gg/aqAF9dnxxx)
 
 
 ## Conteúdos de preparação
@@ -25,14 +25,6 @@
 
 [![Image](https://img.youtube.com/vi/_hZf1teRFNg/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/_hZf1teRFNg)
 
-### 2) HTML e CSS a partir do Figma 1/2
-
-[![Image](https://img.youtube.com/vi/FYgIpVf9TBI/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/FYgIpVf9TBI)
-
-### 3) HTML e CSS a partir do Figma 2/2
-
-[![Image](https://img.youtube.com/vi/EsQ07Og1yFM/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/EsQ07Og1yFM)
-
-### 4) Seu primeiro projeto Java web no Spring Boot
+### 2) Seu primeiro projeto Java web no Spring Boot
 
 [![Image](https://img.youtube.com/vi/D4frmIHAxEY/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/D4frmIHAxEY)

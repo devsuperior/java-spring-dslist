@@ -4,7 +4,7 @@
 
 **É MUITO IMPORTANTE que todos instalem as mesmas versões para evitar imprevistos durante a construção do projeto, e aumentar as chances de que suas dúvidas sejam respondidas.**
 
-## Ferramentas que você deverá instalar no seu computador:
+## Ferramentas que você deverá instalar no seu computador Linux:
 
 - Curl
 - Git
@@ -12,14 +12,10 @@
 - Maven
 - STS
 - Postman
-- Heroku CLI
-- NodeJS 16.x (https://nodejs.org/en/download/)
-- Yarn
-- VS Code
 
 ## Playlist mostrando a instalação:
 
-https://www.youtube.com/playlist?list=PLNuUvBZGBA8mcAF-YX7RJhA26TBLdG5yk
+https://www.youtube.com/playlist?list=PLNuUvBZGBA8mD7uWl0Egq-Zk_VAy9Y6qa
 
 ## Curl
 
@@ -76,7 +72,6 @@ java -version
   ```
 
 
-
 ## Maven
 
 - Instalar Maven: 
@@ -105,41 +100,5 @@ sudo chmod -R ugo+rw /home/user/Workspaces/ws-sts
 - Instalar com snap: 
 ```
 snap install postman
-```
-
-## Heroku CLI
-
-```
-https://devcenter.heroku.com/articles/heroku-cli
-```
-
-## Node 16
-
-```
-sudo apt update
-
-curl -sL https://deb.nodesource.com/setup_16.x | sudo -E bash -
-
-sudo apt-get install nodejs
-```
-
-## YARN 
-No Debian e no Ubuntu:
-```
- curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
- 
- echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
- 
- sudo apt-get update && sudo apt-get install yarn
-
-```
-Caso tenha problemas de instalação a própria DOC do Yarn é muito útil: https://classic.yarnpkg.com/pt-BR/docs/install/#debian-stable
-
-## VS Code
-
-```
-https://code.visualstudio.com/download
-
-sudo snap install code --classic
 ```
 
