@@ -1,4 +1,4 @@
-# ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Intensivão Java Spring
+# ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Intensivão Java Spring - 8 a 14 de maio
 >  *Crie um app completo para seu portfólio com as tecnologias mais demandadas do mercado*
 
 ## Realização
