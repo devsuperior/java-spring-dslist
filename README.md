@@ -1,4 +1,4 @@
-# ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Semana Spring React
+# ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Intensivão Java Spring
 >  *Crie um app completo para seu portfólio com as tecnologias mais demandadas do mercado*
 
 ## Realização
@@ -8,7 +8,7 @@
 [![DevSuperior no Youtube](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/yt-icon.png)](https://youtube.com/devsuperior)
 
 ## Página de inscrição do evento
-- [Página de inscrição - Semana Spring React](https://devsuperior.com.br/sds-inscricao-org)
+- [Página de inscrição - Intensivão Java Spring](https://devsuperior.com.br/sds-inscricao-org)
 
 ## Guias de instalação das ferramentas
 - [Guia de instalação das ferramentas no Windows](https://github.com/devsuperior/sds-dsmeta/tree/main/_instalacao/windows)
