@@ -15,10 +15,6 @@
 - [Guia de instalação das ferramentas no Linux](https://github.com/devsuperior/sds-dsmeta/tree/main/_instalacao/linux)
 - [Guia de instalação das ferramentas no Mac](https://github.com/devsuperior/sds-dsmeta/tree/main/_instalacao/mac)
 
-## Discord do evento para dúvidas e networking
-- [Discord do Intensivão Java Spring](https://discord.gg/aqAF9dnxxx)
-
-
 ## Conteúdos de preparação
 
 ### 1) Git e Github para iniciantes
