@@ -12,6 +12,7 @@
 - Maven
 - STS
 - Postman
+- Docker
 - Postgresql
 - pgAdmin
 
@@ -102,6 +103,10 @@ sudo chmod -R ugo+rw /home/user/Workspaces/ws-sts
 - Instalar com snap: 
 ```
 snap install postman
+```
+## Docker
+```
+https://docs.docker.com/engine/install/ubuntu/
 ```
 
 ## Postgresql
