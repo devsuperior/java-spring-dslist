@@ -10,6 +10,8 @@
 - STS
 - Postman
 - Git
+- Postgresql
+- pgAdmin
 
  ## Instalar o Homebrew
 ```
