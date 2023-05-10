@@ -12,6 +12,8 @@
 - Maven
 - STS
 - Postman
+- Postgresql
+- pgAdmin
 
 ## Playlist mostrando a instalação:
 
@@ -102,3 +104,14 @@ sudo chmod -R ugo+rw /home/user/Workspaces/ws-sts
 snap install postman
 ```
 
+## Postgresql
+
+```
+https://www.postgresql.org/download/linux/ubuntu/
+```
+
+## pgAdmin
+
+```
+https://www.pgadmin.org/download/pgadmin-4-apt/
+```
