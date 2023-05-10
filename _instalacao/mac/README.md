@@ -49,3 +49,25 @@ $ brew cask install postman
 ```
 $ brew install git
 ```
+
+## postgresql 
+```
+$ brew install postgresql
+```
+- Se você for criar um banco de dados local, execute o seguinte comando para iniciar o servidor e fazer login nele (basicamente, ele configura um único usuário "admin" com seu nome de usuário com quem você fará o login) :
+```
+$ brew services start postgresql
+```
+- Para o servidor
+```
+brew services stop postgresql
+```
+- Terminal do Postgres (use ``` \q ``` para sair)
+```
+$ psql postgres
+```
+
+## pgadmin4 
+```
+$ brew cask install pgadmin4
+```
