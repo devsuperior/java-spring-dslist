@@ -39,12 +39,12 @@ $ java —version
 
 ## STS on MacOS 
 ```
-$ brew cask install springtoolsuite
+$ brew install springtoolsuite
 ```
 
 ## postman 
 ```
-$ brew cask install postman
+$ brew install postman
 ```
 
 ## Git
