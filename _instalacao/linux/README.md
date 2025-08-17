@@ -18,7 +18,7 @@
 
 ## Playlist mostrando a instalação:
 
-https://www.youtube.com/playlist?list=PLNuUvBZGBA8mD7uWl0Egq-Zk_VAy9Y6qa
+https://www.youtube.com/playlist?list=PLNuUvBZGBA8mcAF-YX7RJhA26TBLdG5yk
 
 ## Curl
 
